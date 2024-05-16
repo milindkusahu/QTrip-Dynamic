@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/milindkusahu/QTrip-Dynamic/main/qtripdynamic%20demo.png?raw=true"></img>
 
-# QTrip
+# QTripDynamic
 
-QTrip is a travel website aimed at travellers looking for a multitude of adventures in different cities.
+QTripDynamic is a travel website aimed at travellers looking for a multitude of adventures in different cities.
 
 During the course of this project:
 
